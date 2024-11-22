@@ -1,0 +1,501 @@
+review,sentiment
+Estoy realmente contento con este producto.,positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+Estoy realmente contento con este producto.,positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+Estoy realmente contento con este producto.,positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+Estoy realmente contento con este producto.,positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+Estoy realmente contento con este producto.,positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+Estoy realmente contento con este producto.,positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+Estoy realmente contento con este producto.,positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+Estoy realmente contento con este producto.,positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+Estoy realmente contento con este producto.,positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+Estoy realmente contento con este producto.,positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+Estoy realmente contento con este producto.,positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+Estoy realmente contento con este producto.,positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+Estoy realmente contento con este producto.,positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+Estoy realmente contento con este producto.,positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"No cumple con lo que promete, muy decepcionado.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Producto de excelente calidad, muy satisfecho con la compra.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"El producto se rompió al poco tiempo de uso, decepcionante.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Funciona muy bien, lo recomiendo a todos.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Es justo como se describe, totalmente satisfecho.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Muy mala calidad, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"El producto llegó defectuoso, mala experiencia.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+La mejor compra que he hecho en mucho tiempo.,positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+Estoy realmente contento con este producto.,positivo
+"Es muy caro para lo que ofrece, no lo recomiendo.",negativo
+"Buena calidad y precio razonable, me gusta mucho.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Funciona perfecto, calidad increíble.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"La calidad es pésima, no lo volvería a comprar.",negativo
+Lo uso todos los días y estoy muy contento con el resultado.,positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"Perdí mi dinero, no vale la pena comprarlo.",negativo
+Estoy realmente contento con este producto.,positivo
+"Tuve muchos problemas con este producto, no lo recomiendo.",negativo
+"Me encantó este producto, es exactamente lo que necesitaba.",positivo
+"No estoy satisfecho con este producto, no es lo que esperaba.",negativo
+"Superó mis expectativas, sin duda lo volvería a comprar.",positivo
+"No funcionó como esperaba, es una pérdida de dinero.",negativo
